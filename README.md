@@ -83,3 +83,9 @@ Implement predictive analytics to forecast attrition.
 Integrate external datasets for industry benchmarking.
 
 Improve real-time data connectivity for dynamic updates.
+
+-----
+## 👩‍💻 Author
+
+**Kalyani Khapale**
+(Data Analysis using PowerBI)
