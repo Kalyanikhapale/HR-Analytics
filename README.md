@@ -2,7 +2,7 @@
 
 ## 📊 Dashboard Overview
 
-![IPL Dashboard](https://github.com/Kalyanikhapale/IPL-2025--Batting-Dashboard/blob/main/IPL%20Dashboard%20Image.png)
+![IPL Dashboard](https://github.com/Kalyanikhapale/HR-Analytics/blob/main/HR-Analytics%20Dashboard.png)
 
 The HR Analytics Dashboard provides insights into key HR metrics, enabling data-driven decision-making. This dashboard helps HR professionals analyze employee demographics, attrition rates, and performance trends efficiently using Power BI.
 
